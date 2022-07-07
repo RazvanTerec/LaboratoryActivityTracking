@@ -1,0 +1,15 @@
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Razvan\Desktop\GITHUB\LaboratoryActivityTracking\LayersOnWeb\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
